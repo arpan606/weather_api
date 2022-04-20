@@ -26,7 +26,7 @@ var cityname;
 app.post("/",function(req,res)
 {
    cityname=req.body.cityname;
-  const key="98effd9347984eeca11eac209995cd96";
+  const key="";
   const url="https://api.openweathermap.org/data/2.5/weather?q="+cityname +"&appid="+key;
 
 
