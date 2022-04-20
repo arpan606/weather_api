@@ -1,0 +1,46 @@
+.my-box
+{
+margin-left: 900px;
+}
+
+.item-1
+{
+  margin-left:25px;
+  margin-right:25px;
+}
+
+.item-2
+{
+  margin-left: 25px;
+  margin-right:25px;
+}
+
+.item-2
+{
+  margin-left: 25px;
+  margin-right:25px;
+}
+
+.weather-box
+{
+  color:#fff;
+  background-color: black;
+  width:50%;
+  height:300px;
+  margin-top: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  border:2px solid black;
+}
+
+.search-city-box
+{text-align: center;
+  margin-top: 50px;
+}
+
+.search-City
+{
+  margin-left: auto;
+  margin-right: auto;
+  width:50%;
+}
